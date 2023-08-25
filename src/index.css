@@ -55,6 +55,10 @@
   );
 }
 
+.bg-black-footer {
+  background-color: rgba(11, 10, 12, 1);
+}
+
 .bg-black-gradient-2 {
   background: linear-gradient(
     -168.39deg,
